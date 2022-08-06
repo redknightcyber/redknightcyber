@@ -22,10 +22,10 @@
 
 <h2>👨‍💻 Cloud Infrastructure Projects:</h2>
 - <b> Multi-Cloud Projects</b>
-  <b> Terraform (Infrastrucrture as Code)in Azure Projects</b>
-  <b> Terraform (Infrastrucrture as Code)in AWS Projects</b>
-  <b> Multi-Cloud Projects</b>
-  <b>- [Install, Manage, and Configure Microsoft Sentinel](https://github.com/redknightcyber/AzureSentinel)</b>
+-  <b> Terraform (Infrastrucrture as Code)in Azure Projects</b>
+-  <b> Terraform (Infrastrucrture as Code)in AWS Projects</b>
+-  <b> Multi-Cloud Projects</b>
+-  <b>- [Install, Manage, and Configure Microsoft Sentinel](https://github.com/redknightcyber/AzureSentinel)</b>
   
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
