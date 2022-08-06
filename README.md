@@ -1,4 +1,4 @@
-<h1>Hi, I'm Reggie! <br/><a href="https://github.com/redknightcyber/">Cloud Engineer</a> & <a href="linkedin.com/in/reginaldtjohnson/">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Reggie! <br/><a href="https://github.com/redknightcyber/">Cloud Infrastructre Engineer</a> & <a href="linkedin.com/in/reginaldtjohnson/">Cybersecurity Professional</a>, 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <b>Configure Microsoft Azure Sentinel SIEM</b>
