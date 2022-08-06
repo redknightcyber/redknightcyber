@@ -28,7 +28,7 @@
 -  <b> Terraform (Infrastrucrture as Code)in AWS Projects</b>
   
 -  <b> Multi-Cloud Projects</b>
-    - [On-Prem Application and SQL Server Migration to AWS and Google Cloud using Terraform and Google Kubernetes Engine](https://github.com/joshmadakor1/Jwipe.PowerShell)
+    - [On-Prem Application and SQL Server Migration to AWS and Google Cloud using Terraform and Google Kubernetes Engine](https://github.com/redknightcyber/Multi-Cloud_Project)
   
 -  <b>- [Install, Manage, and Configure Microsoft Sentinel](https://github.com/redknightcyber/AzureSentinel)</b>
   
